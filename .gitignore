@@ -396,3 +396,5 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+DevContainerApp/obj/Debug/net8.0/DevContainerApp.AssemblyInfo.cs
+DevContainerApp/obj/Debug/net8.0/DevContainerApp.AssemblyInfoInputs.cache
